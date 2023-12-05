@@ -1,0 +1,111 @@
+.hhbody {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#hugo .cuerpoentero {
+    position: relative;
+    border: solid red;
+    height: 940px;
+    width: 620px;
+}
+
+#hugo .cabeza {
+    position: relative;
+    border: solid green;
+    width: 520px;
+    height: 210px;
+    margin: 50px;
+}
+
+#hugo .cabezaa {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 280px;
+    height: 210px;
+    border-radius: 70%;
+    background-color: black;
+    top: 20px;
+}
+
+#hugo .ojos {
+    position: relative;
+    border: solid rgb(255, 0, 208);
+    width: 280px;
+    height: 70px;
+    top: 50px;
+    right: 2px;
+}
+
+#hugo .ojoss {
+    width: 50px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+#hugo .ojoss2 {
+    width: 50px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+#hugo .cuerpo {
+    position: relative;
+    border: solid blue;
+    width: 520px;
+    height: 490px;
+    margin: 50px;
+    margin-top: -50px;
+    overflow: hidden;
+}
+
+#hugo .cuerpoo {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 420px;
+    height: 500px;
+    background-color: black;
+    border-radius: 30%;
+}
+
+#hugo .cuerpoamarillo {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 370px;
+    height: 480px;
+    background-color: rgb(246, 255, 0);
+    border-radius: 30%;
+    top: 20px;
+}
+
+#hugo .cuerpoblanco {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 350px;
+    height: 480px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30%;
+    top: 10px;
+}
+
+
+#hugo .pies {
+    position: relative;
+    border: solid yellow;
+    width: 520px;
+    height: 140px;
+    margin: 50px;
+    top: -50px;
+    bottom: 0px;
+}
